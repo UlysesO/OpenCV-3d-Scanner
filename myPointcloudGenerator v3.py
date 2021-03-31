@@ -1,4 +1,4 @@
-#Point Cloud Generator Based on the Intel RealSense OpenCV Pythong SDK
+#Point Cloud Generator Based on the Intel RealSense OpenCV Python SDK
 # which can be found here: https://dev.intelrealsense.com/docs/python2
 
 """
